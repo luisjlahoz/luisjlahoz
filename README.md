@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luisjlahoz
-- 👀 I’m interested in Programming & Marketing
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Javascript, React
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me -> luisjavierlahoz@gmail.com
